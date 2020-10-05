@@ -1,3 +1,6 @@
+# Hey there, Shreya here!
+Portfolio	2nd Year Computer Science Student at Kalinga Institute of Industrial Technology Bhubaneshwar
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ShreyaDhir/shreyadhir.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
